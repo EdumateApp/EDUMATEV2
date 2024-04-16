@@ -1,4 +1,4 @@
-# EdumateV2: Revolutionizing Academic Management
+# EdumateV2: Your Learning Partner
 
 Welcome to EdumateV2, the ultimate online platform crafted to revolutionize academic management and elevate learning experiences for both students and teachers. With a sleek and intuitive user interface coupled with a plethora of tailored features, EdumateV2 is set to simplify educational processes and cultivate a collaborative learning ecosystem.
 
